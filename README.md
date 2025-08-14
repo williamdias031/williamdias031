@@ -1,14 +1,14 @@
 # Olá, eu sou o William 👋
 
-💻 **Estudante de Sistemas de Informação** | 🚀 Em transição de carreira para TI  
+💻 **Estudante de Sistemas de Informação**  
 📍 Brasil 
 
 ---
 
 ## 👨‍💻 Sobre mim  
-- 🎓 Atualmente cursando **Sistemas de Informação**  
+- 🎓 Atualmente cursando Bacharelado em **Sistemas de Informação**  na faculdade Newton Paiva 4° *Período*
 - 🐍 Estudando **Python** e automação (RPA)  
-- 🔧 Experiência prévia de 2 anos em instalação de climatização  
+- 🔧 Experiência prévia de 2 anos em mecânico especialista em climatização | 🚀 Em transição de carreira para TI 
 - 📚 Sempre aprendendo e explorando novas tecnologias  
 - 🎯 Objetivo: criar soluções que otimizem processos e facilitem a vida das pessoas
 
