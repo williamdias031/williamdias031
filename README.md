@@ -30,9 +30,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight)
+## 📊 Estatísticas do GitHub
+![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamdias031&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdias031&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=williamdias031&theme=tokyonight&hide_border=false)
 
 ---
 
